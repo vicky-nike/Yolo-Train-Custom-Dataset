@@ -10,3 +10,7 @@ OR
 Download the yolov4 weights from https://drive.google.com/open?id=1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT
 
 Download pretrained weight darknet53.conv.74 from https://pjreddie.com/media/files/darknet53.conv.74
+
+<h2> How to edit custom_train.cfg file </h2>
+
+Open yolov3.cfg/yolov4.cfg in wordpad. Comment 3rd and 4th line
