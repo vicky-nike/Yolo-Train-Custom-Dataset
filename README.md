@@ -1,7 +1,9 @@
-<h2> Requirments </h2>
+# YOLO
+
+## Requirments 
 
 1. Download or clone Yolov4 framework from [this site](https://github.com/AlexeyAB/darknet.git).
-   
+
    All the requirments can be found in that repo.
 
    Visit the website for more information about the [darknet](http://pjreddie.com/darknet/)
