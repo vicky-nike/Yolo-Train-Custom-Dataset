@@ -118,7 +118,7 @@ Open this file in Notepad and keep only the class you are working on.
 In darknet/data/ directory, copy and rename the file *obj.data* into *yolo.data* and edit it in notepad.
 
 ```python
-Classes=1
+classes=1
 train = data/train.txt
 test = data/test.txt
 names = data/yolo.names
